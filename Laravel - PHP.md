@@ -1,12 +1,12 @@
 # Laravel - PHP
 ## Install & Update Composer 
-- Install Composer
+### Install Composer
 
 
     brew install composer
 
 
-- Update Composer
+### Update Composer
 
 
     composer Update
